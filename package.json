@@ -1,0 +1,25 @@
+{
+  "name": "home-session-01",
+  "version": "1.0.0",
+  "description": "Object Oriented JavaScript",
+  "main": "app/index.js",  
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herokidofficial/object-oriented-js.git"
+  },
+  "author": "Iraoya Osariemen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herokidofficial/object-oriented-js/issues"
+  },
+  "homepage": "https://github.com/herokidofficial/object-oriented-js#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
